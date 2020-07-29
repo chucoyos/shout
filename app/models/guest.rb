@@ -1,5 +1,7 @@
-Class Guest
-  def email
+class Guest 
+  
+    def email
       ""
-  end
+    end
+  
 end
